@@ -1,0 +1,67 @@
+# Weather Information
+
+## Weather Terminology
+
+### Basic Terms
+- **Temperature**: Measure of how hot or cold the air is
+- **Humidity**: Amount of water vapor in the air
+- **Precipitation**: Any form of water that falls from clouds (rain, snow, sleet, etc.)
+- **Barometric Pressure**: The pressure exerted by the weight of the atmosphere
+- **Wind Speed**: How fast the air is moving, usually measured in mph or km/h
+- **Wind Direction**: The direction from which the wind is blowing
+
+### Weather Phenomena
+- **Thunderstorm**: A storm with thunder and lightning, typically accompanied by heavy rain
+- **Hurricane/Typhoon**: A large tropical storm with strong winds rotating around a center of low pressure
+- **Tornado**: A violently rotating column of air that is in contact with both the surface of the earth and a cumulonimbus cloud
+- **Fog**: A cloud at ground level that reduces visibility
+- **Hail**: Solid precipitation in the form of ice pellets
+- **Drought**: A prolonged period of abnormally low rainfall
+- **Blizzard**: A severe snowstorm with high winds and low visibility
+
+## Seasonal Weather Patterns
+
+### Spring (March-May in Northern Hemisphere)
+- Gradually warming temperatures
+- Increased rainfall
+- More daylight hours
+- Possibility of thunderstorms
+
+### Summer (June-August in Northern Hemisphere)
+- Highest temperatures of the year
+- Longer daylight hours
+- Potential for heat waves
+- In tropical regions: monsoon season with heavy rainfall
+
+### Fall/Autumn (September-November in Northern Hemisphere)
+- Gradually cooling temperatures
+- Decreasing daylight hours
+- Often drier than spring/summer
+- Potential for early frost or snow in colder regions
+
+### Winter (December-February in Northern Hemisphere)
+- Lowest temperatures of the year
+- Shortest daylight hours
+- Potential for snow, ice storms, and blizzards
+- In tropical regions: often the dry season
+
+## Climate Zones
+
+- **Tropical**: Hot and humid year-round, near the equator
+- **Subtropical**: Hot summers and mild winters
+- **Temperate**: Four distinct seasons with moderate temperature variations
+- **Continental**: Hot summers and cold winters with large temperature variations
+- **Polar**: Very cold year-round, near the poles
+- **Desert**: Hot days, cold nights, very little precipitation
+- **Mountain**: Temperature decreases with elevation, varied precipitation
+
+## Weather Forecasting
+
+Modern weather forecasting uses a combination of:
+- Satellite imagery
+- Radar systems
+- Weather stations
+- Computer models
+- Historical data analysis
+
+Forecasts typically become less accurate the further into the future they predict, with good accuracy for 1-3 days, moderate accuracy for 4-7 days, and limited accuracy beyond that. 

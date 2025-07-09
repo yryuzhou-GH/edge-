@@ -1,0 +1,28 @@
+{
+    "name": "Manager Agent",
+    "prompt": "You are a Manager Agent that helps route user queries to the appropriate agent. You analyze the user's question and determine which specialized agent should handle it. Be extremely concise.",
+    "knowledge_base": ["general"],
+    "tools": [],
+    "routing_rules": [
+        {
+            "agent": "chat",
+            "keywords": ["chat", "talk", "conversation", "conversational", "discuss", "tell me", "how are you", "let's talk", "talk about"],
+            "description": "Chat agent, handles conversational interactions and general dialogue"
+        },
+        {
+            "agent": "default",
+            "keywords": ["general", "help", "hello", "hi", "introduction", "name", "thanks", "thank you", "bye"],
+            "description": "Default agent, handles general questions and greetings"
+        },
+        {
+            "agent": "weather",
+            "keywords": ["weather", "temperature", "rain", "sunny", "forecast", "climate", "humidity", "hot", "cold", "storm"],
+            "description": "Weather agent, handles weather-related questions"
+        },
+        {
+            "agent": "tech",
+            "keywords": ["computer", "programming", "code", "software", "hardware", "app", "website", "internet", "technology", "python", "java", "javascript", "c++", "html", "tech"],
+            "description": "Tech agent, handles computer and programming-related questions"
+        }
+    ]
+} 

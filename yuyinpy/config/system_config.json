@@ -1,0 +1,7 @@
+{
+    "active_agent": "default",
+    "manager_agent": "manager",
+    "record_duration": 5,
+    "playback_duration": 10,
+    "language": "en"
+} 
